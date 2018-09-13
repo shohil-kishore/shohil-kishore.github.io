@@ -31,7 +31,7 @@
             <p class="text-muted">
               Welcome to ISOM's interactive platform. Here you'll find information on our current projects as well as
               our PhD cantidates.
-              Questions or concerns? Reach out to Jo or Shohil.
+              Questions or concerns? Reach out to Josephine or Shohil.
             </p>
           </div>
           <div class="col-sm-4 offset-md-1 py-4">
@@ -194,8 +194,7 @@
     </div>
   </footer>
 
-  <!-- Bootstrap core JavaScript
-    ================================================== -->
+  <!-- Bootstrap core JavaScript -->
   <!-- Placed at the end of the document so the pages load faster -->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
@@ -205,13 +204,29 @@
     crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.4/holder.min.js"></script>
   <script>
-    // Looks for hidden modal and kills all modals (with ID 0 to 20) on close. Loop to represent all page modals. 
-    $(".modal").on('hidden.bs.modal', function (e) {
-      for (i = 0; i < 20; i++) {
-        $("#modal-" + i + " iframe").attr("src", $("#modal-" + i + " iframe").attr("src"));
-      }
+    /* 
+    Looks for modal hide. On hide, finds class ID and kills src.
+    */
+    $(".modal").on("hidden.bs.modal", (element) => {
+      // document.querySelector(".modal").id;
+      id = element.target.id;
+      $("#" + id +  " iframe").attr("src", $("#" + id + " iframe").attr("src"));
+    });
+
+    /*
+    Looks for modal show. On show, sets timeout to 10 minutes. 
+    As the function applies to a class, timeout must be cleared.
+    Otherwise, other modals that are opened will close early. 
+     */
+    $(".modal").on("show.bs.modal", () => {
+        setTimeout(() => {
+          $(".modal").modal("hide");
+        }, 600000);
+        
+        clearTimeout(() => {
+          $(".modal").modal("hide");
+        }, 600000);
     });
   </script>
 </body>
-
 </html>
