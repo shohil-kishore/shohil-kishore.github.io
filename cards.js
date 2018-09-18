@@ -17,11 +17,11 @@ Otherwise, other modals that are opened will close early.
 $(".modal").on("show.bs.modal", () => {
     setTimeout(() => {
       $(".modal").modal("hide");
-    }, 60000);
+    }, 600000);
     
     clearTimeout(() => {
       $(".modal").modal("hide");
-    }, 60000);
+    }, 600000);
 });
 
 /*
@@ -35,7 +35,7 @@ $(() => {
     clearTimeout(idleTimer);
     idleTimer = setTimeout(() => {
       location.href = './slides.html';
-    }, 60000);
+    }, 900000);
   }
   $("#bodyTag").bind('mousemove keydown click', resetTimer); 
   resetTimer();
