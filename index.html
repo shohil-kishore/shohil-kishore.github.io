@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Website for ISOM's touch screen display.">
+  <meta name="description" content="Website for ISOM's touch screen display">
   <meta name="author" content="Shohil Kishore - University of Auckland ISOM Department">
   <!-- Favicon required -->
   <link rel="icon" href="images/favicon.ico">
@@ -19,7 +19,7 @@
   <link href="cards.css" rel="stylesheet">
 </head>
 
-<body>
+<body id="bodyTag" class="fade">
 
   <!-- Navbar -->
   <header>
@@ -66,9 +66,10 @@
     <section class="jumbotron text-center">
       <div class="container">
         <h1 class="jumbotron-heading">Our projects</h1>
-        <p class="lead text-muted">Here you'll find a collection of our department's current projects, research and ideas. 
-          Find something interesting? Click the thumbnail to explore. 
-          </p>
+        <p class="lead text-muted">Here you'll find a collection of our department's current projects, research and
+          ideas.
+          Find something interesting? Click the thumbnail to explore.
+        </p>
         <!-- <p>
           <a href="#" class="btn btn-primary my-2">Primary action</a>
           <a href="#" class="btn btn-secondary my-2">Secondary action</a>
@@ -157,27 +158,27 @@
 
           <!-- Fourth card -->
           <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="https://img.youtube.com/vi/YvOnZW4nAuQ/hqdefault.jpg" alt="Thumbnail"
-                  data-toggle="modal" data-target="#modal-3">
-                <!-- Modal -->
-                <div class="modal fade" id="modal-3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
-                  aria-hidden="true">
-                  <div class="modal-dialog">
-                    <div class="modal-content bmd-modalContent">
-                      <div id="yt-player" class="iframe-container">
-                        <iframe src="https://www.youtube.com/embed/YvOnZW4nAuQ?rel=0&modestbranding=1" frameborder="0"
-                          allowfullscreen allowtransparency="true"></iframe>
-                      </div>
+            <div class="card mb-4 box-shadow">
+              <img class="card-img-top" src="https://img.youtube.com/vi/YvOnZW4nAuQ/hqdefault.jpg" alt="Thumbnail"
+                data-toggle="modal" data-target="#modal-3">
+              <!-- Modal -->
+              <div class="modal fade" id="modal-3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+                aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content bmd-modalContent">
+                    <div id="yt-player" class="iframe-container">
+                      <iframe src="https://www.youtube.com/embed/YvOnZW4nAuQ?rel=0&modestbranding=1" frameborder="0"
+                        allowfullscreen allowtransparency="true"></iframe>
                     </div>
                   </div>
                 </div>
-                <div class="card-body">
-                  <h5 class="card-title">Alex Kipman - HoloLens: Mixed Reality Smart Glasses</h5>
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-                    content. This content is a little bit longer.</p>
-                </div>
               </div>
+              <div class="card-body">
+                <h5 class="card-title">Alex Kipman - HoloLens: Mixed Reality Smart Glasses</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
+                  content. This content is a little bit longer.</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -195,7 +196,6 @@
   </footer>
 
   <!-- Bootstrap core JavaScript -->
-  <!-- Placed at the end of the document so the pages load faster -->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
@@ -203,30 +203,12 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
     crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.4/holder.min.js"></script>
-  <script>
-    /* 
-    Looks for modal hide. On hide, finds class ID and kills src.
-    */
-    $(".modal").on("hidden.bs.modal", (element) => {
-      // document.querySelector(".modal").id;
-      id = element.target.id;
-      $("#" + id +  " iframe").attr("src", $("#" + id + " iframe").attr("src"));
-    });
+  <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E="
+    crossorigin="anonymous"></script>
 
-    /*
-    Looks for modal show. On show, sets timeout to 10 minutes. 
-    As the function applies to a class, timeout must be cleared.
-    Otherwise, other modals that are opened will close early. 
-     */
-    $(".modal").on("show.bs.modal", () => {
-        setTimeout(() => {
-          $(".modal").modal("hide");
-        }, 600000);
-        
-        clearTimeout(() => {
-          $(".modal").modal("hide");
-        }, 600000);
-    });
-  </script>
+  <!-- JavaScript file -->
+  <script src="cards.js"></script>
+
 </body>
+
 </html>
