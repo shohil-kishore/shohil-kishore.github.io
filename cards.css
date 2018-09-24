@@ -60,13 +60,3 @@ footer p {
    top: 0;
    width: 100%;
 }
-
-body {
-  opacity: 1;
-  transition: 1s opacity;
-}
-
-body.fade {
-    opacity: 0;
-    transition: none;
-}
