@@ -40,3 +40,11 @@ $(() => {
   $("#bodyTag").bind('mousemove keydown click', resetTimer); 
   resetTimer();
 });
+
+/*
+Fades in page. 
+When content has loaded, the fade class is removed.
+*/
+document.addEventListener("DOMContentLoaded", function(e) {
+  document.body.className = '';
+  });
