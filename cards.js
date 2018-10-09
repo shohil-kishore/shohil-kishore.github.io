@@ -25,7 +25,7 @@ $(".modal").on("show.bs.modal", () => {
 });
 
 /*
-When there is no interaction with the screen for 15 minutes, slides will automatically start playing.
+When there is no interaction with the screen for 30 minutes, slides will automatically start playing.
 Reset timer will clear timeout and set a new timeout. 
 Events trigger reset timer.
 */
@@ -35,7 +35,7 @@ $(() => {
     clearTimeout(idleTimer);
     idleTimer = setTimeout(() => {
       location.href = './slides.html';
-    }, 900000);
+    }, 1800000);
   }
   $("#bodyTag").bind('mousemove keydown click', resetTimer); 
   resetTimer();
