@@ -70,3 +70,19 @@ body.fade {
     opacity: 0;
     transition: none;
 }
+
+.modal-body {
+  overflow: auto;
+  padding-top: 4%;
+}
+
+.float {
+  float: left;
+  width: 50%;
+}
+
+.modal-image {
+  width: 100%;
+  height: auto;
+  padding-bottom: 5%;
+}
