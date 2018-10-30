@@ -86,3 +86,8 @@ body.fade {
   height: auto;
   padding-bottom: 5%;
 }
+
+.remove-hover {
+  text-decoration: none !important;
+  
+}
