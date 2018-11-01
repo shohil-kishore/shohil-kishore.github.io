@@ -48,3 +48,36 @@ When content has loaded, the fade class is removed.
 document.addEventListener("DOMContentLoaded", function(e) {
   document.body.className = '';
 });
+
+/*
+Due to YouTube API changes related videos are shown when video ends. 
+To avoid this, the modal will close when the video ends (where state === zero).
+Initialise empty array of iFrame IDs.
+*/
+var iframeIDs = [];
+
+// For each iFrame, add its ID to array.
+var iframes = document.querySelectorAll(".video-item iframe");
+iframes.forEach(function(iframe) {
+	iframeIDs.push(iframe.id);
+});
+
+// On ready, create a new YT player. Pass through the onStateChange function.
+function onYouTubeIframeAPIReady() {
+	iframeIDs.forEach(function(iframeID) {
+		var player = new YT.Player(iframeID, {
+			events: {
+				onStateChange: onYouTubePlayerStateChange
+			}
+		});
+	});
+}
+
+// When state is equal to zero, hide the modal and recreate players. Without recreate, player may stop working. 
+function onYouTubePlayerStateChange(event) {
+  // console.log(event.data)
+  if (event.data === 0) {
+    $(".modal").modal("hide");
+    onYouTubeIframeAPIReady();
+  }
+}
