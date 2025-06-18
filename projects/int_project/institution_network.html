@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Institution Network</title>
+    <style>
+      /* [unchanged styles] */
+      body {
+        margin: 0;
+        font-family: sans-serif;
+      }
+      svg {
+        width: 100vw;
+        height: 100vh;
+        background-color: #f4f4f4;
+      }
+      .node {
+        stroke: #fff;
+        stroke-width: 1.5px;
+      }
+      .link {
+        stroke: #999;
+        stroke-opacity: 0.6;
+      }
+      .tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 6px;
+        font: 12px sans-serif;
+        background: lightsteelblue;
+        border: 1px solid #333;
+        border-radius: 4px;
+        pointer-events: none;
+      }
+      #controls {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background: rgba(255, 255, 255, 0.9);
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        font-size: 14px;
+      }
+      #controls label {
+        display: block;
+        margin-top: 5px;
+        font-weight: bold;
+      }
+      #controls input[type="text"],
+      #controls select {
+        width: 180px;
+        padding: 4px;
+        margin-bottom: 5px;
+      }
+      #controls button {
+        margin-top: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="controls">
+      <label for="datasetSelect">Select Dataset:</label>
+      <select id="datasetSelect">
+        <option value="institution_network.json">Overall Network</option>
+        <option value="a_star_institution_network.json">A* Network</option>
+        <option value="mib_institution_network.json">MIB Network</option>
+        <option value="isom_institution_network.json">ISOM Network</option>
+      </select>
+
+      <label for="institution">Filter by Institution Name:</label>
+      <input
+        type="text"
+        id="institution"
+        oninput="applyFilter()"
+        placeholder="e.g. auckland"
+      />
+
+      <label for="weightSlider">Minimum Collaborations:</label>
+      <input
+        type="range"
+        id="weightSlider"
+        min="1"
+        max="10"
+        value="2"
+        oninput="applyFilter()"
+      />
+      <span id="weightValue">2</span>
+
+      <label for="spacingSlider">Graph Spacing:</label>
+      <input type="range" id="spacingSlider" min="100" max="500" value="200" />
+      <span id="spacingValue">200</span>
+
+      <button onclick="resetFilter()">Reset Filters</button>
+    </div>
+
+    <svg></svg>
+    <div
+      id="tooltip"
+      class="tooltip"
+      style="position: absolute; visibility: hidden"
+    ></div>
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script>
+      let svg, g, simulation, tooltip, color, link, node, label;
+      let linkDistance = 200;
+      let chargeStrength = -500;
+      let currentGraph = { nodes: [], links: [] };
+      let filteredNodes = [];
+      let filteredLinks = [];
+
+      const width = window.innerWidth;
+      const height = window.innerHeight;
+      const UOA_ID = "UNIVERSITY OF AUCKLAND";
+
+      init();
+
+      function init() {
+        svg = d3.select("svg");
+        tooltip = d3.select("#tooltip");
+        color = d3.scaleOrdinal(d3.schemeCategory10);
+        g = svg.append("g");
+
+        link = g.append("g").selectAll("line");
+        node = g.append("g").selectAll("circle");
+        label = g.append("g").selectAll("text");
+
+        simulation = d3
+          .forceSimulation()
+          .force(
+            "link",
+            d3
+              .forceLink()
+              .id((d) => d.id)
+              .distance(linkDistance)
+              .strength(0.9)
+          )
+          .force("charge", d3.forceManyBody().strength(chargeStrength))
+          .force("center", d3.forceCenter(width / 2, height / 2))
+          .force(
+            "collision",
+            d3.forceCollide().radius((d) => nodeRadius(d) + 12)
+          );
+
+        svg.call(
+          d3
+            .zoom()
+            .scaleExtent([0.1, 8])
+            .on("zoom", (event) => g.attr("transform", event.transform))
+        );
+
+        document
+          .getElementById("datasetSelect")
+          .addEventListener("change", (e) => {
+            loadGraph(e.target.value);
+          });
+
+        document
+          .getElementById("weightSlider")
+          .addEventListener("input", (e) => {
+            document.getElementById("weightValue").textContent = e.target.value;
+          });
+
+        document
+          .getElementById("spacingSlider")
+          .addEventListener("input", (e) => {
+            const val = +e.target.value;
+            document.getElementById("spacingValue").textContent = val;
+            linkDistance = val;
+            chargeStrength = -2.5 * val;
+            updateForces();
+          });
+
+        window.applyFilter = debounce(applyFilter, 300);
+        window.resetFilter = () => {
+          document.getElementById("institution").value = "";
+          document.getElementById("weightSlider").value = 1;
+          document.getElementById("weightValue").textContent = "1";
+          document.getElementById("spacingSlider").value = 200;
+          document.getElementById("spacingValue").textContent = "200";
+          linkDistance = 200;
+          chargeStrength = -500;
+          filteredNodes = currentGraph.nodes;
+          filteredLinks = currentGraph.links;
+          updateForces();
+          update();
+        };
+
+        loadGraph("institution_network.json");
+      }
+
+      function loadGraph(path) {
+        d3.json(path).then((graph) => {
+          currentGraph = graph;
+
+          // Reapply filter and force values based on current UI
+          const spacingVal = +document.getElementById("spacingSlider").value;
+          linkDistance = spacingVal;
+          chargeStrength = -2.5 * spacingVal;
+          updateForces();
+
+          filteredNodes = graph.nodes;
+          filteredLinks = graph.links;
+          applyFilter(); // filters by institution + min weight again
+        });
+      }
+
+      function applyFilter() {
+        const keyword = document
+          .getElementById("institution")
+          .value.trim()
+          .toLowerCase();
+        const weightMin = +document.getElementById("weightSlider").value;
+
+        const matchesKeyword = (n) => n.id.toLowerCase().includes(keyword);
+        const isUoA = (n) => n.id === UOA_ID;
+
+        const candidateNodes = currentGraph.nodes.filter(
+          (n) => matchesKeyword(n) || isUoA(n)
+        );
+        const candidateNodeIds = new Set(candidateNodes.map((n) => n.id));
+
+        const keptLinks = currentGraph.links.filter((l) => {
+          const sourceId =
+            typeof l.source === "object" ? l.source.id : l.source;
+          const targetId =
+            typeof l.target === "object" ? l.target.id : l.target;
+          return (
+            l.weight >= weightMin &&
+            candidateNodeIds.has(sourceId) &&
+            candidateNodeIds.has(targetId)
+          );
+        });
+
+        const connectedNodeIds = new Set();
+        keptLinks.forEach((l) => {
+          const sourceId =
+            typeof l.source === "object" ? l.source.id : l.source;
+          const targetId =
+            typeof l.target === "object" ? l.target.id : l.target;
+          connectedNodeIds.add(sourceId);
+          connectedNodeIds.add(targetId);
+        });
+
+        // Always keep UoA
+        connectedNodeIds.add(UOA_ID);
+
+        filteredLinks = keptLinks;
+        filteredNodes = currentGraph.nodes.filter((n) =>
+          connectedNodeIds.has(n.id)
+        );
+        update();
+      }
+
+      function update() {
+        simulation.nodes(filteredNodes).on("tick", ticked);
+        simulation.force("link").links(filteredLinks);
+
+        link = link.data(
+          filteredLinks,
+          (d) => (d.source.id || d.source) + "-" + (d.target.id || d.target)
+        );
+        link.exit().remove();
+        link = link
+          .enter()
+          .append("line")
+          .attr("class", "link")
+          .attr("stroke-width", (d) => Math.sqrt(d.weight))
+          .merge(link);
+
+        node = node.data(filteredNodes, (d) => d.id);
+        node.exit().remove();
+        node = node
+          .enter()
+          .append("circle")
+          .attr("class", "node")
+          .attr("r", (d) => nodeRadius(d))
+          .attr("fill", (d) => color(d.group))
+          .on("mouseover", (event, d) => {
+            tooltip
+              .style("visibility", "visible")
+              .html(
+                `<strong>${d.id}</strong><br/>Collaborations: ${sumWeights(d)}`
+              )
+              .style("left", event.pageX + 10 + "px")
+              .style("top", event.pageY + 10 + "px");
+          })
+          .on("mousemove", (event) => {
+            tooltip
+              .style("left", event.pageX + 10 + "px")
+              .style("top", event.pageY + 10 + "px");
+          })
+          .on("mouseout", () => tooltip.style("visibility", "hidden"))
+          .call(drag(simulation))
+          .merge(node);
+
+        label = label.data(filteredNodes, (d) => d.id);
+        label.exit().remove();
+        label = label
+          .enter()
+          .append("text")
+          .text((d) => d.id)
+          .attr("font-size", (d) => 10 + Math.sqrt(sumWeights(d)) + "px")
+          .attr("dy", "0.35em")
+          .merge(label);
+
+        simulation.alpha(1).restart();
+      }
+
+      function ticked() {
+        link
+          .attr("x1", (d) => d.source.x)
+          .attr("y1", (d) => d.source.y)
+          .attr("x2", (d) => d.target.x)
+          .attr("y2", (d) => d.target.y);
+        node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+        label.attr("x", (d) => d.x + nodeRadius(d) + 4).attr("y", (d) => d.y);
+      }
+
+      function drag(sim) {
+        return d3
+          .drag()
+          .on("start", (event, d) => {
+            if (!event.active) sim.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+          })
+          .on("drag", (event, d) => {
+            d.fx = event.x;
+            d.fy = event.y;
+          });
+      }
+
+      function nodeRadius(d) {
+        const connected = currentGraph.links.filter(
+          (l) =>
+            (l.source.id || l.source) === d.id ||
+            (l.target.id || l.target) === d.id
+        );
+        return 8 + Math.sqrt(connected.reduce((acc, l) => acc + l.weight, 0));
+      }
+
+      function sumWeights(d) {
+        const links = filteredLinks.filter(
+          (l) =>
+            (l.source.id || l.source) === d.id ||
+            (l.target.id || l.target) === d.id
+        );
+        return links.reduce((acc, l) => acc + l.weight, 0);
+      }
+
+      function updateForces() {
+        simulation.force("link").distance(linkDistance);
+        simulation.force("charge").strength(chargeStrength);
+        simulation.alpha(1).restart();
+      }
+
+      function debounce(func, wait) {
+        let timeout;
+        return function (...args) {
+          clearTimeout(timeout);
+          timeout = setTimeout(() => func.apply(this, args), wait);
+        };
+      }
+    </script>
+  </body>
+</html>

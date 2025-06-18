@@ -1,0 +1,4261 @@
+{
+  "nodes": [
+    {
+      "id": "UNIVERSITY OF AUCKLAND"
+    },
+    {
+      "id": "QUEEN MARY UNIVERSITY OF LONDON"
+    },
+    {
+      "id": "IT UNIVERSITY OF COPENHAGEN"
+    },
+    {
+      "id": "NORTHWESTERN UNIVERSITY"
+    },
+    {
+      "id": "ENVIRONMENTAL DEFENSE FUND"
+    },
+    {
+      "id": "UNIVERSITY OF NEW MEXICO"
+    },
+    {
+      "id": "MONASH UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF QUEENSLAND"
+    },
+    {
+      "id": "UNSW SYDNEY"
+    },
+    {
+      "id": "QUEEN'S UNIVERSITY BELFAST"
+    },
+    {
+      "id": "LOUGHBOROUGH UNIVERSITY"
+    },
+    {
+      "id": "NATIONAL UNIVERSITY OF SINGAPORE"
+    },
+    {
+      "id": "ZHEJIANG UNIVERSITY"
+    },
+    {
+      "id": "CHINESE UNIVERSITY OF HONG KONG"
+    },
+    {
+      "id": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY"
+    },
+    {
+      "id": "DALIAN MARITIME UNIVERSITY"
+    },
+    {
+      "id": "HONG KONG POLYTECHNIC UNIVERSITY"
+    },
+    {
+      "id": "NANKAI UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF TURIN"
+    },
+    {
+      "id": "COLLEGIO CARLO ALBERTO"
+    },
+    {
+      "id": "AUDENCIA BUSINESS SCHOOL"
+    },
+    {
+      "id": "AALTO UNIVERSITY"
+    },
+    {
+      "id": "ESCP BUSINESS SCHOOL"
+    },
+    {
+      "id": "UNIVERSITY OF BOLOGNA"
+    },
+    {
+      "id": "UNIVERSITY OF NEWCASTLE AUSTRALIA"
+    },
+    {
+      "id": "MACQUARIE UNIVERSITY"
+    },
+    {
+      "id": "HEBREW UNIVERSITY OF JERUSALEM"
+    },
+    {
+      "id": "TEL AVIV UNIVERSITY"
+    },
+    {
+      "id": "EINDHOVEN UNIVERSITY OF TECHNOLOGY"
+    },
+    {
+      "id": "WORCESTER POLYTECHNIC INSTITUTE"
+    },
+    {
+      "id": "MANHATTAN COLLEGE"
+    },
+    {
+      "id": "UNIVERSITY COLLEGE LONDON"
+    },
+    {
+      "id": "COLUMBIA UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF CONNECTICUT"
+    },
+    {
+      "id": "UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS"
+    },
+    {
+      "id": "CHINA UNIVERSITY OF PETROLEUM"
+    },
+    {
+      "id": "UNIVERSITY OF MELBOURNE"
+    },
+    {
+      "id": "UNIVERSITY OF ARKANSAS SYSTEM"
+    },
+    {
+      "id": "KING'S COLLEGE LONDON"
+    },
+    {
+      "id": "GUANGDONG UNIVERSITY OF FOREIGN STUDIES"
+    },
+    {
+      "id": "UNIVERSITY OF EDINBURGH"
+    },
+    {
+      "id": "HUNAN UNIVERSITY"
+    },
+    {
+      "id": "TSINGHUA UNIVERSITY"
+    },
+    {
+      "id": "JINAN UNIVERSITY"
+    },
+    {
+      "id": "AUCKLAND UNIVERSITY OF TECHNOLOGY"
+    },
+    {
+      "id": "ESCP EUROPE BUSINESS SCHOOL"
+    },
+    {
+      "id": "COPENHAGEN BUSINESS SCHOOL"
+    },
+    {
+      "id": "SYRACUSE UNIVERSITY"
+    },
+    {
+      "id": "LANCASTER UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF SYDNEY"
+    },
+    {
+      "id": "CHULALONGKORN UNIVERSITY"
+    },
+    {
+      "id": "COVENTRY UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF CHICAGO"
+    },
+    {
+      "id": "UNIVERSITY OF WISCONSIN"
+    },
+    {
+      "id": "UNIVERSITY OF MICHIGAN"
+    },
+    {
+      "id": "TEXAS TECH UNIVERSITY"
+    },
+    {
+      "id": "GEORGIA INSTITUTE OF TECHNOLOGY"
+    },
+    {
+      "id": "OAKLAND UNIVERSITY"
+    },
+    {
+      "id": "TULANE UNIVERSITY"
+    },
+    {
+      "id": "UTAH STATE UNIVERSITY"
+    },
+    {
+      "id": "HIROSHIMA SHUDO UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF ALBERTA"
+    },
+    {
+      "id": "UTAH VALLEY UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF TEXAS AT EL PASO"
+    },
+    {
+      "id": "GEORGETOWN UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF MASSACHUSETTS SYSTEM"
+    },
+    {
+      "id": "UNIVERSITY OF CANTERBURY"
+    },
+    {
+      "id": "RMIT UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE"
+    },
+    {
+      "id": "DONGBEI UNIVERSITY OF FINANCE AND ECONOMICS"
+    },
+    {
+      "id": "YALE UNIVERSITY"
+    },
+    {
+      "id": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE"
+    },
+    {
+      "id": "UNIVERSITY OF FLORIDA"
+    },
+    {
+      "id": "UNIVERSITY OF ALABAMA"
+    },
+    {
+      "id": "UNIVERSITY OF NANTES"
+    },
+    {
+      "id": "HES-SO VAUD"
+    },
+    {
+      "id": "AUSTRALIAN NATIONAL UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF OTAGO"
+    },
+    {
+      "id": "VICTORIA UNIVERSITY OF WELLINGTON"
+    },
+    {
+      "id": "UNIVERSITY OF OKLAHOMA"
+    },
+    {
+      "id": "UNIVERSITY OF TEXAS AT AUSTIN"
+    },
+    {
+      "id": "RUTGERS"
+    },
+    {
+      "id": "UNIVERSITY OF KANSAS"
+    },
+    {
+      "id": "INSTITUTO CENTROAMERICANO DE ADMINISTRACI\u00d3N DE EMPRESAS"
+    },
+    {
+      "id": "IOWA STATE UNIVERSITY"
+    },
+    {
+      "id": "EMLYON BUSINESS SCHOOL"
+    },
+    {
+      "id": "UNIVERSITY OF CALIFORNIA"
+    },
+    {
+      "id": "HERIOT-WATT UNIVERSITY"
+    },
+    {
+      "id": "SHANGHAI JIAO TONG UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA"
+    },
+    {
+      "id": "SOUTHWESTERN UNIVERSITY OF FINANCE AND ECONOMICS"
+    },
+    {
+      "id": "SICHUAN UNIVERSITY"
+    },
+    {
+      "id": "TRINITY COLLEGE DUBLIN"
+    },
+    {
+      "id": "KOREA NATIONAL DEFENSE UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF DENVER"
+    },
+    {
+      "id": "NOTTINGHAM BUSINESS SCHOOL"
+    },
+    {
+      "id": "ALLAMEH TABATABA'I UNIVERSITY"
+    },
+    {
+      "id": "SAHMYOOK UNIVERSITY"
+    },
+    {
+      "id": "MICHIGAN STATE UNIVERSITY"
+    },
+    {
+      "id": "HONGIK UNIVERSITY"
+    },
+    {
+      "id": "SEOUL NATIONAL UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF ADELAIDE"
+    },
+    {
+      "id": "HANOI OPEN UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF WESTERN AUSTRALIA"
+    },
+    {
+      "id": "SHANDONG UNIVERSITY"
+    },
+    {
+      "id": "GEORGIA STATE UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF JYV\u00c4SKYL\u00c4"
+    },
+    {
+      "id": "UNIVERSITY OF VAASA"
+    },
+    {
+      "id": "UNIVERSITY OF GOTHENBURG"
+    },
+    {
+      "id": "MASSEY UNIVERSITY"
+    },
+    {
+      "id": "TEXAS CHRISTIAN UNIVERSITY"
+    },
+    {
+      "id": "STOCKHOLM SCHOOL OF ECONOMICS"
+    },
+    {
+      "id": "TOULOUSE SCHOOL OF ECONOMICS"
+    },
+    {
+      "id": "UNIVERSITY OF WOLLONGONG"
+    },
+    {
+      "id": "ISLAMIC AZAD UNIVERSITY SEMNAN"
+    },
+    {
+      "id": "UPPSALA UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF LEEDS"
+    },
+    {
+      "id": "UNIVERSITY OF EASTERN FINLAND"
+    },
+    {
+      "id": "VIENNA UNIVERSITY OF ECONOMICS AND BUSINESS"
+    },
+    {
+      "id": "TONGJI UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF WAIKATO"
+    },
+    {
+      "id": "SIMON FRASER UNIVERSITY"
+    },
+    {
+      "id": "FUDAN UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF MACAU"
+    },
+    {
+      "id": "TARBIAT MODARES UNIVERSITY"
+    },
+    {
+      "id": "PEKING UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF TECHNOLOGY SYDNEY"
+    },
+    {
+      "id": "UNIVERSIT\u00c9 PARIS 1 PANTH\u00c9ON-SORBONNE"
+    },
+    {
+      "id": "NEWCASTLE UNIVERSITY"
+    },
+    {
+      "id": "NEW HAVEN"
+    },
+    {
+      "id": "UNIVERSITY OF OSLO"
+    },
+    {
+      "id": "UNIVERSITY OF GREENWICH"
+    },
+    {
+      "id": "UNIVERSITY OF JOHANNESBURG"
+    },
+    {
+      "id": "UNIVERSITY OF NOTRE DAME AUSTRALIA"
+    },
+    {
+      "id": "RENMIN UNIVERSITY OF CHINA"
+    },
+    {
+      "id": "BABSON COLLEGE"
+    },
+    {
+      "id": "UNIVERSITY OF SIEGEN"
+    },
+    {
+      "id": "MONTPELLIER BUSINESS SCHOOL"
+    },
+    {
+      "id": "TON DUC THANG UNIVERSITY"
+    },
+    {
+      "id": "XIANGTAN UNIVERSITY"
+    },
+    {
+      "id": "ASTON UNIVERSITY"
+    },
+    {
+      "id": "SOUTH CHINA UNIVERSITY OF TECHNOLOGY"
+    },
+    {
+      "id": "NANJING UNIVERSITY"
+    },
+    {
+      "id": "BANDUNG INSTITUTE OF TECHNOLOGY"
+    },
+    {
+      "id": "IMPERIAL COLLEGE LONDON"
+    },
+    {
+      "id": "EDHEC BUSINESS SCHOOL"
+    },
+    {
+      "id": "UNIVERSITY OF KENTUCKY"
+    },
+    {
+      "id": "UNIVERSITY OF SOUTH AUSTRALIA"
+    },
+    {
+      "id": "DONGGUK UNIVERSITY"
+    },
+    {
+      "id": "TEMPLE UNIVERSITY"
+    },
+    {
+      "id": "CAPITAL UNIVERSITY OF ECONOMICS AND BUSINESS"
+    },
+    {
+      "id": "UNIVERSITY OF ST ANDREWS"
+    },
+    {
+      "id": "UNIVERSITY OF COLORADO BOULDER"
+    },
+    {
+      "id": "KU LEUVEN"
+    },
+    {
+      "id": "BI NORWEGIAN BUSINESS SCHOOL"
+    },
+    {
+      "id": "XI'AN JIAOTONG UNIVERSITY"
+    },
+    {
+      "id": "CHINA EUROPE INTERNATIONAL BUSINESS SCHOOL"
+    },
+    {
+      "id": "UNIVERSITY OF BAYREUTH"
+    },
+    {
+      "id": "LANDESSPORTBUND NORDRHEIN-WESTFALEN E.V. AND KREISSPORTBUND RHEIN-SIEG E.V."
+    },
+    {
+      "id": "UNIVERSITY OF TASMANIA"
+    },
+    {
+      "id": "UNIVERSITY OF WASHINGTON"
+    },
+    {
+      "id": "BEIJING INSTITUTE OF TECHNOLOGY"
+    },
+    {
+      "id": "UNIVERSITY OF VERONA"
+    },
+    {
+      "id": "UNIVERSITY OF SOUTHAMPTON"
+    },
+    {
+      "id": "UNIVERSITY OF TEXAS AT SAN ANTONIO"
+    },
+    {
+      "id": "NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS"
+    },
+    {
+      "id": "SUN YAT-SEN UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF HAWAII AT MANOA"
+    },
+    {
+      "id": "HONG KONG BAPTIST UNIVERSITY"
+    },
+    {
+      "id": "BUREAU OF ECONOMIC ANALYSIS"
+    },
+    {
+      "id": "UNIVERSITY OF WATERLOO"
+    },
+    {
+      "id": "YORK UNIVERSITY"
+    },
+    {
+      "id": "DURHAM UNIVERSITY"
+    },
+    {
+      "id": "EUROPEAN UNIVERSITY INSTITUTE"
+    },
+    {
+      "id": "TECHNICAL UNIVERSITY OF MUNICH"
+    },
+    {
+      "id": "UNIVERSITY OF TEXAS AT DALLAS"
+    },
+    {
+      "id": "CATHOLIC UNIVERSITY OF EICHST\u00c4TT-INGOLSTADT"
+    },
+    {
+      "id": "TILBURG UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF PORTO"
+    },
+    {
+      "id": "IESE BARCELONA"
+    },
+    {
+      "id": "UNIVERSITY OF CAMPANIA \"LUIGI VANVITELLI\""
+    },
+    {
+      "id": "SAPIENZA UNIVERSITY OF ROME"
+    },
+    {
+      "id": "LUISS UNIVERSITY"
+    },
+    {
+      "id": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS"
+    },
+    {
+      "id": "FLORIDA INTERNATIONAL UNIVERSITY"
+    },
+    {
+      "id": "BOND UNIVERSITY"
+    },
+    {
+      "id": "CARDIFF UNIVERSITY"
+    },
+    {
+      "id": "YONSEI UNIVERSITY"
+    },
+    {
+      "id": "AUCKLAND CITY HOSPITAL"
+    },
+    {
+      "id": "NATIONAL UNIVERSITY OF MALAYSIA"
+    },
+    {
+      "id": "UNIVERSITY OF KENT"
+    },
+    {
+      "id": "MIDDLESEX UNIVERSITY"
+    },
+    {
+      "id": "BAYLOR UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA"
+    },
+    {
+      "id": "MIAMI UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN"
+    },
+    {
+      "id": "NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS"
+    },
+    {
+      "id": "ZHEJIANG UNIVERSITY OF TECHNOLOGY"
+    },
+    {
+      "id": "LA TROBE UNIVERSITY"
+    },
+    {
+      "id": "BAR-ILAN UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF MISSOURI"
+    },
+    {
+      "id": "QUEENSLAND UNIVERSITY OF TECHNOLOGY"
+    },
+    {
+      "id": "UNIVERSITY OF GALWAY"
+    },
+    {
+      "id": "UNIVERSITY OF HULL"
+    },
+    {
+      "id": "GHENT UNIVERSITY"
+    },
+    {
+      "id": "CZECH TECHNICAL UNIVERSITY IN PRAGUE"
+    },
+    {
+      "id": "UNIVERSITY OF LIVERPOOL"
+    },
+    {
+      "id": "UNIVERSITY OF BIRMINGHAM"
+    },
+    {
+      "id": "ARIZONA STATE UNIVERSITY"
+    },
+    {
+      "id": "ERASMUS UNIVERSITY"
+    },
+    {
+      "id": "TEXAS A&M UNIVERSITY"
+    },
+    {
+      "id": "CURTIN UNIVERSITY"
+    },
+    {
+      "id": "JILIN UNIVERSITY"
+    },
+    {
+      "id": "ULSAN NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "id": "UNIVERSITY OF CYPRUS"
+    },
+    {
+      "id": "HANKEN SCHOOL OF ECONOMICS"
+    },
+    {
+      "id": "UNIVERSITY OF SOUTHERN DENMARK"
+    },
+    {
+      "id": "RENSSELAER POLYTECHNIC INSTITUTE"
+    },
+    {
+      "id": "UNIV YORK"
+    },
+    {
+      "id": "HANKUK UNIVERSITY OF FOREIGN STUDIES"
+    },
+    {
+      "id": "OPEN UNIVERSITY"
+    },
+    {
+      "id": "GEORGIA COLLEGE & STATE UNIVERSITY"
+    },
+    {
+      "id": "CALIFORNIA STATE UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF HONG KONG"
+    },
+    {
+      "id": "WUHAN UNIVERSITY"
+    },
+    {
+      "id": "CITY UNIVERSITY OF HONG KONG"
+    },
+    {
+      "id": "UNIVERSITY OF COLOGNE"
+    },
+    {
+      "id": "UNIVERSITY OF OXFORD"
+    },
+    {
+      "id": "VRIJE UNIVERSITEIT AMSTERDAM"
+    },
+    {
+      "id": "BAR ILAN UNIVERSITY"
+    },
+    {
+      "id": "BANK OF CANADA"
+    },
+    {
+      "id": "DEUTSCHE BUNDESBANK"
+    },
+    {
+      "id": "JUNE 17"
+    },
+    {
+      "id": "NORD UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF TURKU"
+    },
+    {
+      "id": "UNIVERSITY OF GRONINGEN"
+    },
+    {
+      "id": "LUDWIG-MAXIMILIANS-UNIVERSIT\u00c4T M\u00dcNCHEN"
+    },
+    {
+      "id": "CRANFIELD UNIVERSITY"
+    },
+    {
+      "id": "KOREA INSTITUTE OF PUBLIC FINANCE"
+    },
+    {
+      "id": "ROYAL HOLLOWAY UNIVERSITY OF LONDON"
+    },
+    {
+      "id": "UNIVERSITY OF WARWICK"
+    },
+    {
+      "id": "NETHERLANDS DEFENCE ACADEMY"
+    },
+    {
+      "id": "UNIVERSITY OF TWENTE"
+    },
+    {
+      "id": "KEELE UNIVERSITY"
+    },
+    {
+      "id": "CENTRE FOR GLOBAL SOURCING AND SERVICES"
+    },
+    {
+      "id": "GRENOBLE SCHOOL OF MANAGEMENT"
+    },
+    {
+      "id": "LOUGHBOROUGH RESEARCH CENTRE FOR GLOBAL SOURCING AND SERVICES"
+    },
+    {
+      "id": "KOREA UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF SURREY"
+    },
+    {
+      "id": "CA' FOSCARI UNIVERSITY OF VENICE"
+    },
+    {
+      "id": "HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY"
+    },
+    {
+      "id": "INDIAN INSTITUTE OF MANAGEMENT UDAIPUR"
+    },
+    {
+      "id": "EMERGENCY PHYSICIANS AT PORTER HOSPITALS"
+    },
+    {
+      "id": "HAUTES \u00c9TUDES COMMERCIALES DE PARIS"
+    },
+    {
+      "id": "UNIVERSITY OF OREGON"
+    },
+    {
+      "id": "FLORIDA STATE UNIVERSITY"
+    },
+    {
+      "id": "NATIONAL SUN YAT-SEN UNIVERSITY"
+    },
+    {
+      "id": "NATIONAL BUREAU OF ECONOMIC RESEARCH"
+    },
+    {
+      "id": "UNIVERSITY OF EAST ANGLIA"
+    },
+    {
+      "id": "AUTONOMOUS UNIVERSITY OF MADRID"
+    },
+    {
+      "id": "OPEN UNIVERSITY OF HONG KONG"
+    },
+    {
+      "id": "DEPAUL UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF PRETORIA"
+    },
+    {
+      "id": "HOPE COLLEGE"
+    },
+    {
+      "id": "UNIVERSITY OF ILLINOIS AT CHICAGO"
+    },
+    {
+      "id": "UNIVERSITY OF GEORGIA"
+    },
+    {
+      "id": "DEPARTMENT OF INFORMATION SYSTEMS AND OPERATIONS MANAGEMENT; UNIVERSITY OF UNIVERSITY OF AUCKLAND; PRIVATE BAG 92019 AUCKLAND 1142 NEW ZEALAND"
+    },
+    {
+      "id": "FACULTY OF BUSINESS"
+    },
+    {
+      "id": "UNITED STATES CENSUS BUREAU"
+    },
+    {
+      "id": "UNIVERSITY OF BONN"
+    },
+    {
+      "id": "CENTRE FOR ECONOMIC POLICY RESEARCH"
+    },
+    {
+      "id": "UNIVERSITY OF ILLINOIS SYSTEM"
+    },
+    {
+      "id": "UNIVERSITY OF NOTTINGHAM NINGBO CHINA"
+    },
+    {
+      "id": "MAASTRICHT UNIVERSITY"
+    },
+    {
+      "id": "VIRGINIA TECH"
+    },
+    {
+      "id": "OPTIM ENERGY"
+    },
+    {
+      "id": "RESERVE BANK OF AUSTRALIA"
+    },
+    {
+      "id": "CHIA NAN UNIV PHARM & SCI"
+    },
+    {
+      "id": "NATL SUN YAT SEN UNIV"
+    },
+    {
+      "id": "EMPIRICAL RESEARCH PARTNERS LLC"
+    },
+    {
+      "id": "NATIONAL CENTRAL UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF ULSTER"
+    },
+    {
+      "id": "WARRINGTON COLLEGE OF BUSINESS"
+    },
+    {
+      "id": "COGGIN COLLEGE OF BUSINESS"
+    },
+    {
+      "id": "UNIVERSITY OF NORTH FLORIDA"
+    },
+    {
+      "id": "UNIVERSITY OF YORK"
+    },
+    {
+      "id": "OREGON STATE UNIVERSITY"
+    },
+    {
+      "id": "ECONOMIC RESEARCH SERVICE"
+    },
+    {
+      "id": "UC LOS ANGELES"
+    },
+    {
+      "id": "EINAUDI INSTITUTE FOR ECONOMICS AND FINANCE"
+    },
+    {
+      "id": "ATE"
+    },
+    {
+      "id": "WORLD BANK"
+    },
+    {
+      "id": "UNIVERSITY OF HOUSTON"
+    },
+    {
+      "id": "AMERICAN UNIVERSITY OF SHARJAH"
+    },
+    {
+      "id": "MISSOURI STATE UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF STRATHCLYDE"
+    },
+    {
+      "id": "SCHULICH SCHOOL OF BUSINESS"
+    },
+    {
+      "id": "TECHNISCHE UNIVERSIT\u00c4T BERLIN"
+    },
+    {
+      "id": "ABDUS SALAM INTERNATIONAL CENTRE FOR THEORETICAL PHYSICS"
+    },
+    {
+      "id": "TECHNICAL UNIVERSITY OF BERLIN"
+    },
+    {
+      "id": "BANK OF ENGLAND"
+    },
+    {
+      "id": "UNIVERSITY OF WISCONSIN SYSTEM"
+    },
+    {
+      "id": "WASHINGTON UNIVERSITY IN ST. LOUIS"
+    },
+    {
+      "id": "UNIVERSITY OF PENNSYLVANIA"
+    },
+    {
+      "id": "HARVARD UNIVERSITY"
+    },
+    {
+      "id": "PRINCETON UNIVERSITY"
+    },
+    {
+      "id": "GERMAN INSTITUTE FOR ECONOMIC RESEARCH"
+    },
+    {
+      "id": "UNIVERSITY OF NOTTINGHAM"
+    },
+    {
+      "id": "QUEEN'S UNIVERSITY"
+    },
+    {
+      "id": "OHIO STATE UNIVERSITY"
+    },
+    {
+      "id": "UNIVERSITY OF ESSEX"
+    },
+    {
+      "id": "UNIVERSITY OF AMSTERDAM"
+    },
+    {
+      "id": "UNIVERSITY AT ALBANY"
+    },
+    {
+      "id": "MANUKAU INSTITUTE OF TECHNOLOGY"
+    },
+    {
+      "id": "SAINT MARY'S UNIVERSITY"
+    },
+    {
+      "id": "COLORADO STATE UNIVERSITY SYSTEM"
+    },
+    {
+      "id": "ALBA GRADUATE BUSINESS SCHOOL"
+    },
+    {
+      "id": "UNIVERSITY OF WINDSOR"
+    },
+    {
+      "id": "UNIVERSITY OF AGDER"
+    },
+    {
+      "id": "UNIVERSITY OF SOUTHERN CALIFORNIA"
+    }
+  ],
+  "links": [
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 16
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 7
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "UNIVERSITY OF WARWICK",
+      "weight": 6
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 6
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF MELBOURNE",
+      "weight": 6
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 6
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 6
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 5
+    },
+    {
+      "source": "COPENHAGEN BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 4
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 4
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "PEKING UNIVERSITY",
+      "weight": 4
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 4
+    },
+    {
+      "source": "MACQUARIE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 4
+    },
+    {
+      "source": "QUEEN MARY UNIVERSITY OF LONDON",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 4
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "DONGGUK UNIVERSITY",
+      "weight": 4
+    },
+    {
+      "source": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 4
+    },
+    {
+      "source": "KOREA UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 4
+    },
+    {
+      "source": "FUDAN UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 3
+    },
+    {
+      "source": "LANCASTER UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 3
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF KENTUCKY",
+      "weight": 3
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 3
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 3
+    },
+    {
+      "source": "DONGGUK UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 3
+    },
+    {
+      "source": "DONGGUK UNIVERSITY",
+      "target": "PEKING UNIVERSITY",
+      "weight": 3
+    },
+    {
+      "source": "KOREA UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 3
+    },
+    {
+      "source": "SHANDONG UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 3
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF CANTERBURY",
+      "weight": 3
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "YONSEI UNIVERSITY",
+      "weight": 3
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "TSINGHUA UNIVERSITY",
+      "weight": 3
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF QUEENSLAND",
+      "weight": 3
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF OKLAHOMA",
+      "weight": 3
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 3
+    },
+    {
+      "source": "PEKING UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 3
+    },
+    {
+      "source": "IOWA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 3
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "OPEN UNIVERSITY OF HONG KONG",
+      "weight": 3
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF MICHIGAN",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF EDINBURGH",
+      "weight": 2
+    },
+    {
+      "source": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "target": "PEKING UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF KANSAS",
+      "weight": 2
+    },
+    {
+      "source": "LOUGHBOROUGH UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "COLLEGIO CARLO ALBERTO",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "CAPITAL UNIVERSITY OF ECONOMICS AND BUSINESS",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF CONNECTICUT",
+      "target": "WORCESTER POLYTECHNIC INSTITUTE",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "YONSEI UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "ISLAMIC AZAD UNIVERSITY SEMNAN",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "MACQUARIE UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "DONGGUK UNIVERSITY",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "KOREA UNIVERSITY",
+      "target": "YONSEI UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "CITY UNIVERSITY OF HONG KONG",
+      "target": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "weight": 2
+    },
+    {
+      "source": "OHIO STATE UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "TEXAS TECH UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "STOCKHOLM SCHOOL OF ECONOMICS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF GOTHENBURG",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF WOLLONGONG",
+      "weight": 2
+    },
+    {
+      "source": "IT UNIVERSITY OF COPENHAGEN",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "JINAN UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "TEXAS TECH UNIVERSITY",
+      "target": "UNIVERSITY OF WISCONSIN",
+      "weight": 2
+    },
+    {
+      "source": "SYRACUSE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "ISLAMIC AZAD UNIVERSITY SEMNAN",
+      "target": "UNIVERSITY OF WOLLONGONG",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF WISCONSIN",
+      "weight": 2
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF NOTTINGHAM",
+      "weight": 2
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF MICHIGAN",
+      "target": "UNIVERSITY OF WISCONSIN",
+      "weight": 2
+    },
+    {
+      "source": "IOWA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "UNIVERSITY OF SIEGEN",
+      "weight": 2
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "LOUGHBOROUGH UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF CALIFORNIA",
+      "weight": 2
+    },
+    {
+      "source": "TOULOUSE SCHOOL OF ECONOMICS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "target": "ZHEJIANG UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "EMLYON BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "RENMIN UNIVERSITY OF CHINA",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "KOREA UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "KOREA INSTITUTE OF PUBLIC FINANCE",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "TULANE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF LIVERPOOL",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF ST ANDREWS",
+      "weight": 2
+    },
+    {
+      "source": "NETHERLANDS DEFENCE ACADEMY",
+      "target": "UNIVERSITY OF WARWICK",
+      "weight": 2
+    },
+    {
+      "source": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE",
+      "target": "UNIVERSITY OF WARWICK",
+      "weight": 2
+    },
+    {
+      "source": "SHANGHAI JIAO TONG UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "HARVARD UNIVERSITY",
+      "target": "IMPERIAL COLLEGE LONDON",
+      "weight": 2
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "KING'S COLLEGE LONDON",
+      "target": "QUEEN MARY UNIVERSITY OF LONDON",
+      "weight": 2
+    },
+    {
+      "source": "NANKAI UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "ZHEJIANG UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "RMIT UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "MANHATTAN COLLEGE",
+      "target": "WORCESTER POLYTECHNIC INSTITUTE",
+      "weight": 2
+    },
+    {
+      "source": "AUDENCIA BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF ESSEX",
+      "target": "UNIVERSITY OF NOTTINGHAM",
+      "weight": 2
+    },
+    {
+      "source": "TEMPLE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "KING'S COLLEGE LONDON",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF HOUSTON",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF TECHNOLOGY SYDNEY",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF WAIKATO",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF ADELAIDE",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF JYV\u00c4SKYL\u00c4",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "VRIJE UNIVERSITEIT AMSTERDAM",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF KENTUCKY",
+      "target": "WARRINGTON COLLEGE OF BUSINESS",
+      "weight": 2
+    },
+    {
+      "source": "TSINGHUA UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF ALABAMA",
+      "weight": 2
+    },
+    {
+      "source": "QUEEN'S UNIVERSITY BELFAST",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF SYDNEY",
+      "target": "YALE UNIVERSITY",
+      "weight": 2
+    },
+    {
+      "source": "TEL AVIV UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 2
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF WAIKATO",
+      "weight": 2
+    },
+    {
+      "source": "QUEEN MARY UNIVERSITY OF LONDON",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF OTAGO",
+      "weight": 2
+    },
+    {
+      "source": "AUSTRALIAN NATIONAL UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "IMPERIAL COLLEGE LONDON",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF HOUSTON",
+      "target": "UNIVERSITY OF KENTUCKY",
+      "weight": 2
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF NEW MEXICO",
+      "weight": 2
+    },
+    {
+      "source": "TEXAS TECH UNIVERSITY",
+      "target": "UNIVERSITY OF MICHIGAN",
+      "weight": 2
+    },
+    {
+      "source": "NORTHWESTERN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 2
+    },
+    {
+      "source": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "target": "PEKING UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "DONGGUK UNIVERSITY",
+      "target": "ULSAN NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "UNIVERSITY OF WESTERN AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF JYV\u00c4SKYL\u00c4",
+      "weight": 1
+    },
+    {
+      "source": "TEXAS CHRISTIAN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF ILLINOIS SYSTEM",
+      "weight": 1
+    },
+    {
+      "source": "ECONOMIC RESEARCH SERVICE",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "QUEEN MARY UNIVERSITY OF LONDON",
+      "target": "UNIVERSITY OF NOTTINGHAM",
+      "weight": 1
+    },
+    {
+      "source": "ARIZONA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF MELBOURNE",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF MELBOURNE",
+      "target": "UNIVERSITY OF NEW MEXICO",
+      "weight": 1
+    },
+    {
+      "source": "INSTITUTO CENTROAMERICANO DE ADMINISTRACI\u00d3N DE EMPRESAS",
+      "target": "RUTGERS",
+      "weight": 1
+    },
+    {
+      "source": "MAASTRICHT UNIVERSITY",
+      "target": "UNIVERSITY OF JYV\u00c4SKYL\u00c4",
+      "weight": 1
+    },
+    {
+      "source": "TECHNICAL UNIVERSITY OF MUNICH",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "LANCASTER UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "ULSAN NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "SHANGHAI JIAO TONG UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "HAUTES \u00c9TUDES COMMERCIALES DE PARIS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "RUTGERS",
+      "target": "UNIVERSITY OF KANSAS",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "LANDESSPORTBUND NORDRHEIN-WESTFALEN E.V. AND KREISSPORTBUND RHEIN-SIEG E.V.",
+      "weight": 1
+    },
+    {
+      "source": "CENTRE FOR GLOBAL SOURCING AND SERVICES",
+      "target": "GRENOBLE SCHOOL OF MANAGEMENT",
+      "weight": 1
+    },
+    {
+      "source": "SAHMYOOK UNIVERSITY",
+      "target": "SEOUL NATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CZECH TECHNICAL UNIVERSITY IN PRAGUE",
+      "target": "GHENT UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "target": "NANKAI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND CITY HOSPITAL",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "BI NORWEGIAN BUSINESS SCHOOL",
+      "target": "KU LEUVEN",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UPPSALA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF ESSEX",
+      "weight": 1
+    },
+    {
+      "source": "COLUMBIA UNIVERSITY",
+      "target": "UNIVERSITY OF CONNECTICUT",
+      "weight": 1
+    },
+    {
+      "source": "ECONOMIC RESEARCH SERVICE",
+      "target": "OREGON STATE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE",
+      "weight": 1
+    },
+    {
+      "source": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "target": "UNIVERSITY OF HONG KONG",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF JOHANNESBURG",
+      "weight": 1
+    },
+    {
+      "source": "COGGIN COLLEGE OF BUSINESS",
+      "target": "WARRINGTON COLLEGE OF BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "QUEENSLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE",
+      "target": "NETHERLANDS DEFENCE ACADEMY",
+      "weight": 1
+    },
+    {
+      "source": "NOTTINGHAM BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CURTIN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CRANFIELD UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "UNIVERSITY OF OSLO",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "MACQUARIE UNIVERSITY",
+      "target": "UNIVERSITY OF BOLOGNA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF SYDNEY",
+      "target": "ZHEJIANG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "RUTGERS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "COLORADO STATE UNIVERSITY SYSTEM",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "TEMPLE UNIVERSITY",
+      "target": "UNIVERSITY OF HAWAII AT MANOA",
+      "weight": 1
+    },
+    {
+      "source": "TILBURG UNIVERSITY",
+      "target": "UNIVERSITY OF PORTO",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "RENSSELAER POLYTECHNIC INSTITUTE",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF COLOGNE",
+      "target": "UNIVERSITY OF OXFORD",
+      "weight": 1
+    },
+    {
+      "source": "DALIAN MARITIME UNIVERSITY",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "EMLYON BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "ALLAMEH TABATABA'I UNIVERSITY",
+      "target": "NOTTINGHAM BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "KU LEUVEN",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "UNIVERSITY OF WAIKATO",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF QUEENSLAND",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "UNIVERSITY OF EDINBURGH",
+      "weight": 1
+    },
+    {
+      "source": "INDIAN INSTITUTE OF MANAGEMENT UDAIPUR",
+      "target": "UNIVERSITY OF ALBERTA",
+      "weight": 1
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "UPPSALA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "RMIT UNIVERSITY",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "INSTITUTO CENTROAMERICANO DE ADMINISTRACI\u00d3N DE EMPRESAS",
+      "target": "UNIVERSITY OF KANSAS",
+      "weight": 1
+    },
+    {
+      "source": "ROYAL HOLLOWAY UNIVERSITY OF LONDON",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "LANCASTER UNIVERSITY",
+      "target": "UNIVERSITY OF BIRMINGHAM",
+      "weight": 1
+    },
+    {
+      "source": "FUDAN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF NOTTINGHAM NINGBO CHINA",
+      "weight": 1
+    },
+    {
+      "source": "GEORGIA INSTITUTE OF TECHNOLOGY",
+      "target": "HIROSHIMA SHUDO UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "BOND UNIVERSITY",
+      "target": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "GEORGIA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF COLORADO BOULDER",
+      "target": "UNIVERSITY OF ST ANDREWS",
+      "weight": 1
+    },
+    {
+      "source": "LANCASTER UNIVERSITY",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AMSTERDAM",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "LANDESSPORTBUND NORDRHEIN-WESTFALEN E.V. AND KREISSPORTBUND RHEIN-SIEG E.V.",
+      "target": "UNIVERSITY OF BAYREUTH",
+      "weight": 1
+    },
+    {
+      "source": "MIDDLESEX UNIVERSITY",
+      "target": "UNIVERSITY OF ST ANDREWS",
+      "weight": 1
+    },
+    {
+      "source": "DEUTSCHE BUNDESBANK",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "LOUGHBOROUGH RESEARCH CENTRE FOR GLOBAL SOURCING AND SERVICES",
+      "target": "UNIVERSITY OF TEXAS AT AUSTIN",
+      "weight": 1
+    },
+    {
+      "source": "DURHAM UNIVERSITY",
+      "target": "YORK UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF TURIN",
+      "weight": 1
+    },
+    {
+      "source": "DURHAM UNIVERSITY",
+      "target": "UNIVERSITY OF QUEENSLAND",
+      "weight": 1
+    },
+    {
+      "source": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "target": "UNIVERSITY OF TWENTE",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "COPENHAGEN BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "ALBA GRADUATE BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY AT ALBANY",
+      "target": "UNIVERSITY OF AMSTERDAM",
+      "weight": 1
+    },
+    {
+      "source": "EMLYON BUSINESS SCHOOL",
+      "target": "RMIT UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF KENT",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF TASMANIA",
+      "weight": 1
+    },
+    {
+      "source": "NANJING UNIVERSITY",
+      "target": "SOUTH CHINA UNIVERSITY OF TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "NANKAI UNIVERSITY",
+      "target": "RMIT UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SUN YAT-SEN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "STOCKHOLM SCHOOL OF ECONOMICS",
+      "target": "TOULOUSE SCHOOL OF ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "LOUGHBOROUGH UNIVERSITY",
+      "target": "UNIVERSITY OF SURREY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF ADELAIDE",
+      "target": "UNIVERSITY OF TURKU",
+      "weight": 1
+    },
+    {
+      "source": "BABSON COLLEGE",
+      "target": "UNIVERSITY OF SIEGEN",
+      "weight": 1
+    },
+    {
+      "source": "NANJING UNIVERSITY",
+      "target": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "weight": 1
+    },
+    {
+      "source": "CURTIN UNIVERSITY",
+      "target": "JILIN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF NOTRE DAME AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "TULANE UNIVERSITY",
+      "target": "UTAH STATE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "PEKING UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "AUTONOMOUS UNIVERSITY OF MADRID",
+      "target": "UNIVERSITY OF EAST ANGLIA",
+      "weight": 1
+    },
+    {
+      "source": "HONG KONG BAPTIST UNIVERSITY",
+      "target": "TEMPLE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CATHOLIC UNIVERSITY OF EICHST\u00c4TT-INGOLSTADT",
+      "target": "TILBURG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "TONGJI UNIVERSITY",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "SAPIENZA UNIVERSITY OF ROME",
+      "target": "UNIVERSITY OF CAMPANIA \"LUIGI VANVITELLI\"",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "LOUGHBOROUGH UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF STRATHCLYDE",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF SOUTHAMPTON",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF OXFORD",
+      "weight": 1
+    },
+    {
+      "source": "BAR ILAN UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "HUNAN UNIVERSITY",
+      "target": "UNIVERSITY OF EDINBURGH",
+      "weight": 1
+    },
+    {
+      "source": "CARDIFF UNIVERSITY",
+      "target": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CARDIFF UNIVERSITY",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "BANK OF CANADA",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "FUDAN UNIVERSITY",
+      "target": "TSINGHUA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "IESE BARCELONA",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "BOND UNIVERSITY",
+      "target": "PEKING UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF VAASA",
+      "weight": 1
+    },
+    {
+      "source": "TEXAS A&M UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "HOPE COLLEGE",
+      "target": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+      "weight": 1
+    },
+    {
+      "source": "SHANGHAI JIAO TONG UNIVERSITY",
+      "target": "SICHUAN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "WORLD BANK",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF GALWAY",
+      "weight": 1
+    },
+    {
+      "source": "DONGGUK UNIVERSITY",
+      "target": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MACQUARIE UNIVERSITY",
+      "target": "QUEENSLAND UNIVERSITY OF TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "EDHEC BUSINESS SCHOOL",
+      "target": "IMPERIAL COLLEGE LONDON",
+      "weight": 1
+    },
+    {
+      "source": "TSINGHUA UNIVERSITY",
+      "target": "UNIVERSITY OF WASHINGTON",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF MASSACHUSETTS SYSTEM",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "NETHERLANDS DEFENCE ACADEMY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF SOUTH AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "CALIFORNIA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "TECHNICAL UNIVERSITY OF MUNICH",
+      "target": "TILBURG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "GUANGDONG UNIVERSITY OF FOREIGN STUDIES",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "EMLYON BUSINESS SCHOOL",
+      "target": "TEXAS CHRISTIAN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF BOLOGNA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF HOUSTON",
+      "target": "WARRINGTON COLLEGE OF BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "EMERGENCY PHYSICIANS AT PORTER HOSPITALS",
+      "target": "UNIVERSITY OF COLORADO BOULDER",
+      "weight": 1
+    },
+    {
+      "source": "ALLAMEH TABATABA'I UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "TONGJI UNIVERSITY",
+      "target": "VIENNA UNIVERSITY OF ECONOMICS AND BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "GEORGIA COLLEGE & STATE UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "BANK OF CANADA",
+      "target": "DEUTSCHE BUNDESBANK",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "KEELE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AMERICAN UNIVERSITY OF SHARJAH",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "FLORIDA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF OREGON",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UPPSALA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "NANKAI UNIVERSITY",
+      "target": "VIENNA UNIVERSITY OF ECONOMICS AND BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "NEWCASTLE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF EAST ANGLIA",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "ESCP BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "FUDAN UNIVERSITY",
+      "target": "UNIVERSITY OF MACAU",
+      "weight": 1
+    },
+    {
+      "source": "HANKUK UNIVERSITY OF FOREIGN STUDIES",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF GOTHENBURG",
+      "target": "UNIVERSITY OF JYV\u00c4SKYL\u00c4",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF ARKANSAS SYSTEM",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL CENTRAL UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "MANHATTAN COLLEGE",
+      "target": "UNIVERSITY COLLEGE LONDON",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "XI'AN JIAOTONG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF KENTUCKY",
+      "weight": 1
+    },
+    {
+      "source": "DALIAN MARITIME UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "UNIVERSITY OF KANSAS",
+      "weight": 1
+    },
+    {
+      "source": "KOREA NATIONAL DEFENSE UNIVERSITY",
+      "target": "TRINITY COLLEGE DUBLIN",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF TURKU",
+      "weight": 1
+    },
+    {
+      "source": "AMERICAN UNIVERSITY OF SHARJAH",
+      "target": "UNIVERSITY OF KANSAS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF TWENTE",
+      "target": "UNIVERSITY OF WARWICK",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF QUEENSLAND",
+      "target": "UNSW SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "UNIVERSITY OF TWENTE",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "UNIVERSITY OF NEW MEXICO",
+      "weight": 1
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "UNIVERSITY OF SOUTHERN DENMARK",
+      "weight": 1
+    },
+    {
+      "source": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF BOLOGNA",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "AUTONOMOUS UNIVERSITY OF MADRID",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF CANTERBURY",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND CITY HOSPITAL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "LUISS UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CHINA UNIVERSITY OF PETROLEUM",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "EMERGENCY PHYSICIANS AT PORTER HOSPITALS",
+      "target": "INDIAN INSTITUTE OF MANAGEMENT UDAIPUR",
+      "weight": 1
+    },
+    {
+      "source": "SIMON FRASER UNIVERSITY",
+      "target": "UNIVERSITY OF WAIKATO",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL BUREAU OF ECONOMIC RESEARCH",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "HONG KONG BAPTIST UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "RMIT UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "TILBURG UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF CYPRUS",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF NORTH FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "HONGIK UNIVERSITY",
+      "target": "SEOUL NATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CHINA UNIVERSITY OF PETROLEUM",
+      "target": "UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "VIENNA UNIVERSITY OF ECONOMICS AND BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "ESCP EUROPE BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "TECHNICAL UNIVERSITY OF MUNICH",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "UNIVERSITY OF MELBOURNE",
+      "weight": 1
+    },
+    {
+      "source": "MAASTRICHT UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "MONTPELLIER BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "EDHEC BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF PRETORIA",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "IOWA STATE UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "HES-SO VAUD",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "TEMPLE UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "target": "UNIVERSITY OF TASMANIA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF WASHINGTON",
+      "weight": 1
+    },
+    {
+      "source": "OPEN UNIVERSITY",
+      "target": "UNIVERSITY OF WAIKATO",
+      "weight": 1
+    },
+    {
+      "source": "BEIJING INSTITUTE OF TECHNOLOGY",
+      "target": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL BUREAU OF ECONOMIC RESEARCH",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF OSLO",
+      "weight": 1
+    },
+    {
+      "source": "KOREA NATIONAL DEFENSE UNIVERSITY",
+      "target": "UNIVERSITY OF DENVER",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF MELBOURNE",
+      "target": "UNIVERSITY OF MISSOURI",
+      "weight": 1
+    },
+    {
+      "source": "ENVIRONMENTAL DEFENSE FUND",
+      "target": "NORTHWESTERN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "BANK OF ENGLAND",
+      "target": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE",
+      "weight": 1
+    },
+    {
+      "source": "BOND UNIVERSITY",
+      "target": "DONGGUK UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CHULALONGKORN UNIVERSITY",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "CHINA EUROPE INTERNATIONAL BUSINESS SCHOOL",
+      "target": "XI'AN JIAOTONG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "KEELE UNIVERSITY",
+      "target": "LOUGHBOROUGH UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "target": "TECHNICAL UNIVERSITY OF BERLIN",
+      "weight": 1
+    },
+    {
+      "source": "ISLAMIC AZAD UNIVERSITY SEMNAN",
+      "target": "TARBIAT MODARES UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "HONGIK UNIVERSITY",
+      "target": "MICHIGAN STATE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "NATIONAL CENTRAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CATHOLIC UNIVERSITY OF EICHST\u00c4TT-INGOLSTADT",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "target": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF GREENWICH",
+      "weight": 1
+    },
+    {
+      "source": "CITY UNIVERSITY OF HONG KONG",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AUDENCIA BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF COLORADO BOULDER",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF VAASA",
+      "weight": 1
+    },
+    {
+      "source": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF KENTUCKY",
+      "target": "UNIVERSITY OF NORTH FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "GEORGIA INSTITUTE OF TECHNOLOGY",
+      "target": "OAKLAND UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CATHOLIC UNIVERSITY OF EICHST\u00c4TT-INGOLSTADT",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "DEPAUL UNIVERSITY",
+      "target": "UNIVERSITY OF PRETORIA",
+      "weight": 1
+    },
+    {
+      "source": "LANCASTER UNIVERSITY",
+      "target": "SYRACUSE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "LANCASTER UNIVERSITY",
+      "target": "UNIVERSITY OF MASSACHUSETTS SYSTEM",
+      "weight": 1
+    },
+    {
+      "source": "COLORADO STATE UNIVERSITY SYSTEM",
+      "target": "UNIVERSITY OF OKLAHOMA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF SOUTHERN DENMARK",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF BONN",
+      "weight": 1
+    },
+    {
+      "source": "HAUTES \u00c9TUDES COMMERCIALES DE PARIS",
+      "target": "UNIVERSITY OF OREGON",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF CALIFORNIA",
+      "weight": 1
+    },
+    {
+      "source": "ARIZONA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "CARDIFF UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF CANTERBURY",
+      "target": "UNIVERSITY OF LIVERPOOL",
+      "weight": 1
+    },
+    {
+      "source": "DEPAUL UNIVERSITY",
+      "target": "HOPE COLLEGE",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+      "target": "UNIVERSITY OF PRETORIA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF TEXAS AT EL PASO",
+      "target": "UTAH VALLEY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "XIANGTAN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "IT UNIVERSITY OF COPENHAGEN",
+      "target": "QUEEN MARY UNIVERSITY OF LONDON",
+      "weight": 1
+    },
+    {
+      "source": "CARDIFF UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "TILBURG UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "UNIVERSITY OF BIRMINGHAM",
+      "weight": 1
+    },
+    {
+      "source": "GUANGDONG UNIVERSITY OF FOREIGN STUDIES",
+      "target": "HUNAN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF NOTTINGHAM",
+      "weight": 1
+    },
+    {
+      "source": "ABDUS SALAM INTERNATIONAL CENTRE FOR THEORETICAL PHYSICS",
+      "target": "TECHNICAL UNIVERSITY OF BERLIN",
+      "weight": 1
+    },
+    {
+      "source": "AMERICAN UNIVERSITY OF SHARJAH",
+      "target": "MISSOURI STATE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "TARBIAT MODARES UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CHULALONGKORN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "LUDWIG-MAXIMILIANS-UNIVERSIT\u00c4T M\u00dcNCHEN",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "GRENOBLE SCHOOL OF MANAGEMENT",
+      "weight": 1
+    },
+    {
+      "source": "ALBA GRADUATE BUSINESS SCHOOL",
+      "target": "ASTON UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MICHIGAN STATE UNIVERSITY",
+      "target": "SAHMYOOK UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ARIZONA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY COLLEGE LONDON",
+      "target": "WORCESTER POLYTECHNIC INSTITUTE",
+      "weight": 1
+    },
+    {
+      "source": "IT UNIVERSITY OF COPENHAGEN",
+      "target": "UNIVERSITY OF ARKANSAS SYSTEM",
+      "weight": 1
+    },
+    {
+      "source": "CENTRE FOR ECONOMIC POLICY RESEARCH",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF OTAGO",
+      "weight": 1
+    },
+    {
+      "source": "CA' FOSCARI UNIVERSITY OF VENICE",
+      "target": "LOUGHBOROUGH UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "LOUGHBOROUGH UNIVERSITY",
+      "target": "UNIVERSITY OF WARWICK",
+      "weight": 1
+    },
+    {
+      "source": "MICHIGAN STATE UNIVERSITY",
+      "target": "SEOUL NATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "FUDAN UNIVERSITY",
+      "target": "SUN YAT-SEN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF ULSTER",
+      "target": "UNIVERSITY OF WATERLOO",
+      "weight": 1
+    },
+    {
+      "source": "EMPIRICAL RESEARCH PARTNERS LLC",
+      "target": "MASSEY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "target": "PEKING UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CHULALONGKORN UNIVERSITY",
+      "target": "COVENTRY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MIAMI UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "HONGIK UNIVERSITY",
+      "target": "SAHMYOOK UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "UNIVERSITY OF YORK",
+      "weight": 1
+    },
+    {
+      "source": "SHANGHAI JIAO TONG UNIVERSITY",
+      "target": "SOUTHWESTERN UNIVERSITY OF FINANCE AND ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "AUSTRALIAN NATIONAL UNIVERSITY",
+      "target": "MONASH UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "LANDESSPORTBUND NORDRHEIN-WESTFALEN E.V. AND KREISSPORTBUND RHEIN-SIEG E.V.",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "RUTGERS",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "UNIV YORK",
+      "weight": 1
+    },
+    {
+      "source": "ZHEJIANG UNIVERSITY",
+      "target": "ZHEJIANG UNIVERSITY OF TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "MACQUARIE UNIVERSITY",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "GERMAN INSTITUTE FOR ECONOMIC RESEARCH",
+      "target": "HARVARD UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "INSTITUTO CENTROAMERICANO DE ADMINISTRACI\u00d3N DE EMPRESAS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF MELBOURNE",
+      "target": "WORLD BANK",
+      "weight": 1
+    },
+    {
+      "source": "HANOI OPEN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF NANTES",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF QUEENSLAND",
+      "target": "YORK UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "NORD UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "BAYLOR UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "target": "SOUTH CHINA UNIVERSITY OF TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "AUDENCIA BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "TULANE UNIVERSITY",
+      "target": "UNIVERSITY OF TECHNOLOGY SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "TILBURG UNIVERSITY",
+      "target": "UNIVERSITY OF GRONINGEN",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF BIRMINGHAM",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "VIRGINIA TECH",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "target": "ZHEJIANG UNIVERSITY OF TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "YALE UNIVERSITY",
+      "target": "ZHEJIANG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF JYV\u00c4SKYL\u00c4",
+      "target": "UNIVERSITY OF VAASA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF CHICAGO",
+      "weight": 1
+    },
+    {
+      "source": "COPENHAGEN BUSINESS SCHOOL",
+      "target": "ESCP EUROPE BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "EUROPEAN UNIVERSITY INSTITUTE",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF GEORGIA",
+      "weight": 1
+    },
+    {
+      "source": "BUREAU OF ECONOMIC ANALYSIS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CARDIFF UNIVERSITY",
+      "target": "PEKING UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ABDUS SALAM INTERNATIONAL CENTRE FOR THEORETICAL PHYSICS",
+      "target": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "weight": 1
+    },
+    {
+      "source": "UNIV YORK",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "GUANGDONG UNIVERSITY OF FOREIGN STUDIES",
+      "target": "UNIVERSITY OF EDINBURGH",
+      "weight": 1
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "TON DUC THANG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "HEBREW UNIVERSITY OF JERUSALEM",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "ABDUS SALAM INTERNATIONAL CENTRE FOR THEORETICAL PHYSICS",
+      "target": "TECHNISCHE UNIVERSIT\u00c4T BERLIN",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND CITY HOSPITAL",
+      "target": "LANCASTER UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "DEPAUL UNIVERSITY",
+      "target": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+      "weight": 1
+    },
+    {
+      "source": "CHINA EUROPE INTERNATIONAL BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "IESE BARCELONA",
+      "target": "TILBURG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "BABSON COLLEGE",
+      "target": "MASSEY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "COVENTRY UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "PEKING UNIVERSITY",
+      "target": "UNIVERSITY OF TECHNOLOGY SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF GRONINGEN",
+      "target": "VRIJE UNIVERSITEIT AMSTERDAM",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF MALAYSIA",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "EMPIRICAL RESEARCH PARTNERS LLC",
+      "target": "NATIONAL CENTRAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF CAMPANIA \"LUIGI VANVITELLI\"",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF PORTO",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "YORK UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SCHULICH SCHOOL OF BUSINESS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "RMIT UNIVERSITY",
+      "target": "UNIVERSITY OF CANTERBURY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF ALBERTA",
+      "target": "UNIVERSITY OF TEXAS AT EL PASO",
+      "weight": 1
+    },
+    {
+      "source": "NORTHWESTERN UNIVERSITY",
+      "target": "UNIVERSITY OF CHICAGO",
+      "weight": 1
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "HANKEN SCHOOL OF ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF OKLAHOMA",
+      "target": "UNIVERSITY OF WATERLOO",
+      "weight": 1
+    },
+    {
+      "source": "SICHUAN UNIVERSITY",
+      "target": "SOUTHWESTERN UNIVERSITY OF FINANCE AND ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "BOND UNIVERSITY",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "KOREA INSTITUTE OF PUBLIC FINANCE",
+      "target": "YONSEI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CITY UNIVERSITY OF HONG KONG",
+      "target": "WUHAN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF GOTHENBURG",
+      "target": "UNIVERSITY OF VAASA",
+      "weight": 1
+    },
+    {
+      "source": "MISSOURI STATE UNIVERSITY",
+      "target": "UNIVERSITY OF KANSAS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF HAWAII AT MANOA",
+      "weight": 1
+    },
+    {
+      "source": "AALTO UNIVERSITY",
+      "target": "UNIVERSITY OF VAASA",
+      "weight": 1
+    },
+    {
+      "source": "BUREAU OF ECONOMIC ANALYSIS",
+      "target": "KOREA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF WISCONSIN SYSTEM",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "HANKUK UNIVERSITY OF FOREIGN STUDIES",
+      "weight": 1
+    },
+    {
+      "source": "AUSTRALIAN NATIONAL UNIVERSITY",
+      "target": "LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE",
+      "weight": 1
+    },
+    {
+      "source": "TARBIAT MODARES UNIVERSITY",
+      "target": "UNIVERSITY OF WOLLONGONG",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF QUEENSLAND",
+      "target": "YONSEI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "BOND UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "KOREA UNIVERSITY",
+      "target": "LOUGHBOROUGH RESEARCH CENTRE FOR GLOBAL SOURCING AND SERVICES",
+      "weight": 1
+    },
+    {
+      "source": "BANDUNG INSTITUTE OF TECHNOLOGY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "QUEEN'S UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MIAMI UNIVERSITY",
+      "target": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+      "weight": 1
+    },
+    {
+      "source": "DONGBEI UNIVERSITY OF FINANCE AND ECONOMICS",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "HANKEN SCHOOL OF ECONOMICS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF BAYREUTH",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF CALIFORNIA",
+      "target": "YONSEI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "TRINITY COLLEGE DUBLIN",
+      "target": "UNIVERSITY OF DENVER",
+      "weight": 1
+    },
+    {
+      "source": "ARIZONA STATE UNIVERSITY",
+      "target": "TEXAS A&M UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "TONGJI UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNITED STATES CENSUS BUREAU",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF ESSEX",
+      "weight": 1
+    },
+    {
+      "source": "BAR-ILAN UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "UNIVERSITY OF TEXAS AT SAN ANTONIO",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "weight": 1
+    },
+    {
+      "source": "ULSAN NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "IESE BARCELONA",
+      "target": "UNIVERSITY OF PORTO",
+      "weight": 1
+    },
+    {
+      "source": "DONGGUK UNIVERSITY",
+      "target": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "weight": 1
+    },
+    {
+      "source": "SHANDONG UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "AUSTRALIAN NATIONAL UNIVERSITY",
+      "target": "BANK OF ENGLAND",
+      "weight": 1
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "UNIVERSITY OF QUEENSLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF HULL",
+      "weight": 1
+    },
+    {
+      "source": "BOND UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "MANUKAU INSTITUTE OF TECHNOLOGY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "SICHUAN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "SHANGHAI JIAO TONG UNIVERSITY",
+      "target": "UNIVERSITY OF ELECTRONIC SCIENCE AND TECHNOLOGY OF CHINA",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "RMIT UNIVERSITY",
+      "target": "TONGJI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "JINAN UNIVERSITY",
+      "target": "TSINGHUA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF YORK",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF PENNSYLVANIA",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL",
+      "target": "MONASH UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF CALIFORNIA",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF TEXAS AT SAN ANTONIO",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY AT ALBANY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF GALWAY",
+      "target": "UPPSALA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL",
+      "target": "PEKING UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF GREENWICH",
+      "target": "UNIVERSITY OF OSLO",
+      "weight": 1
+    },
+    {
+      "source": "HERIOT-WATT UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "QUEEN'S UNIVERSITY",
+      "target": "SAINT MARY'S UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SCHULICH SCHOOL OF BUSINESS",
+      "target": "WORCESTER POLYTECHNIC INSTITUTE",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "HEBREW UNIVERSITY OF JERUSALEM",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "SUN YAT-SEN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MISSOURI STATE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "HES-SO VAUD",
+      "target": "UNIVERSITY OF NANTES",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "UNIVERSITY OF GOTHENBURG",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "WARRINGTON COLLEGE OF BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF BAYREUTH",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF SCIENCE AND TECHNOLOGY OF CHINA",
+      "weight": 1
+    },
+    {
+      "source": "CARDIFF UNIVERSITY",
+      "target": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "LOUGHBOROUGH RESEARCH CENTRE FOR GLOBAL SOURCING AND SERVICES",
+      "weight": 1
+    },
+    {
+      "source": "EINAUDI INSTITUTE FOR ECONOMICS AND FINANCE",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF LEEDS",
+      "weight": 1
+    },
+    {
+      "source": "JILIN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "OPEN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "BAYLOR UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "COGGIN COLLEGE OF BUSINESS",
+      "target": "UNIVERSITY OF KENTUCKY",
+      "weight": 1
+    },
+    {
+      "source": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "target": "UNIVERSITY OF WARWICK",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF JOHANNESBURG",
+      "target": "UNIVERSITY OF NOTRE DAME AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF WATERLOO",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "ZHEJIANG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "NANKAI UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "LA TROBE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF EASTERN FINLAND",
+      "target": "UNIVERSITY OF LEEDS",
+      "weight": 1
+    },
+    {
+      "source": "MIAMI UNIVERSITY",
+      "target": "TULANE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND CITY HOSPITAL",
+      "target": "NATIONAL UNIVERSITY OF MALAYSIA",
+      "weight": 1
+    },
+    {
+      "source": "AUDENCIA BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF ST ANDREWS",
+      "weight": 1
+    },
+    {
+      "source": "EINDHOVEN UNIVERSITY OF TECHNOLOGY",
+      "target": "HEBREW UNIVERSITY OF JERUSALEM",
+      "weight": 1
+    },
+    {
+      "source": "RENMIN UNIVERSITY OF CHINA",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF CALIFORNIA",
+      "target": "UNIVERSITY OF YORK",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF EAST ANGLIA",
+      "weight": 1
+    },
+    {
+      "source": "AUSTRALIAN NATIONAL UNIVERSITY",
+      "target": "RESERVE BANK OF AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "NATL SUN YAT SEN UNIV",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "MASSEY UNIVERSITY",
+      "target": "SIMON FRASER UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CALIFORNIA STATE UNIVERSITY",
+      "target": "GEORGIA COLLEGE & STATE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "COLUMBIA UNIVERSITY",
+      "target": "WORCESTER POLYTECHNIC INSTITUTE",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "IMPERIAL COLLEGE LONDON",
+      "weight": 1
+    },
+    {
+      "source": "MANHATTAN COLLEGE",
+      "target": "UNIVERSITY OF CONNECTICUT",
+      "weight": 1
+    },
+    {
+      "source": "COLLEGIO CARLO ALBERTO",
+      "target": "UNIVERSITY OF TURIN",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF MACAU",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL RESEARCH UNIVERSITY HIGHER SCHOOL OF ECONOMICS",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF VERONA",
+      "weight": 1
+    },
+    {
+      "source": "KOREA UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT AUSTIN",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF ALBERTA",
+      "target": "UTAH VALLEY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CARDIFF UNIVERSITY",
+      "target": "DONGGUK UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL BUREAU OF ECONOMIC RESEARCH",
+      "target": "NATIONAL SUN YAT-SEN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF BIRMINGHAM",
+      "target": "UNIVERSITY OF LIVERPOOL",
+      "weight": 1
+    },
+    {
+      "source": "CHIA NAN UNIV PHARM & SCI",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "BI NORWEGIAN BUSINESS SCHOOL",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "HOPE COLLEGE",
+      "target": "UNIVERSITY OF PRETORIA",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "AUTONOMOUS UNIVERSITY OF MADRID",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF WINDSOR",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "CENTRE FOR GLOBAL SOURCING AND SERVICES",
+      "weight": 1
+    },
+    {
+      "source": "HARVARD UNIVERSITY",
+      "target": "PRINCETON UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "COLLEGIO CARLO ALBERTO",
+      "target": "EUROPEAN UNIVERSITY INSTITUTE",
+      "weight": 1
+    },
+    {
+      "source": "CHIA NAN UNIV PHARM & SCI",
+      "target": "NATL SUN YAT SEN UNIV",
+      "weight": 1
+    },
+    {
+      "source": "EMPIRICAL RESEARCH PARTNERS LLC",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "NEWCASTLE UNIVERSITY",
+      "target": "STOCKHOLM SCHOOL OF ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+      "weight": 1
+    },
+    {
+      "source": "LOUGHBOROUGH UNIVERSITY",
+      "target": "QUEEN'S UNIVERSITY BELFAST",
+      "weight": 1
+    },
+    {
+      "source": "BAR-ILAN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "WORCESTER POLYTECHNIC INSTITUTE",
+      "weight": 1
+    },
+    {
+      "source": "HEBREW UNIVERSITY OF JERUSALEM",
+      "target": "TEL AVIV UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF EASTERN FINLAND",
+      "weight": 1
+    },
+    {
+      "source": "FLORIDA STATE UNIVERSITY",
+      "target": "UNIVERSITY OF CALIFORNIA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF COLORADO BOULDER",
+      "weight": 1
+    },
+    {
+      "source": "HUNAN UNIVERSITY",
+      "target": "TSINGHUA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF MACAU",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL SUN YAT-SEN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "OPTIM ENERGY",
+      "target": "UNSW SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "IESE BARCELONA",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "TEL AVIV UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "BUREAU OF ECONOMIC ANALYSIS",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "UNIVERSITY OF WARWICK",
+      "weight": 1
+    },
+    {
+      "source": "MIDDLESEX UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "UNIVERSITY OF TECHNOLOGY SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "KOREA UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ASTON UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT AUSTIN",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "weight": 1
+    },
+    {
+      "source": "COPENHAGEN BUSINESS SCHOOL",
+      "target": "TEMPLE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "UNIVERSITY OF NOTTINGHAM NINGBO CHINA",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "UNIVERSITY OF CYPRUS",
+      "weight": 1
+    },
+    {
+      "source": "ROYAL HOLLOWAY UNIVERSITY OF LONDON",
+      "target": "UNIVERSITY OF PRETORIA",
+      "weight": 1
+    },
+    {
+      "source": "NANKAI UNIVERSITY",
+      "target": "TONGJI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "INDIAN INSTITUTE OF MANAGEMENT UDAIPUR",
+      "target": "UNIVERSITY OF COLORADO BOULDER",
+      "weight": 1
+    },
+    {
+      "source": "ARIZONA STATE UNIVERSITY",
+      "target": "ERASMUS UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "target": "TECHNISCHE UNIVERSIT\u00c4T BERLIN",
+      "weight": 1
+    },
+    {
+      "source": "DURHAM UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "BOND UNIVERSITY",
+      "target": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "weight": 1
+    },
+    {
+      "source": "CATHOLIC UNIVERSITY OF EICHST\u00c4TT-INGOLSTADT",
+      "target": "IESE BARCELONA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF SYDNEY",
+      "target": "UNIVERSITY OF WESTERN AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "TONGJI UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "INSTITUTO CENTROAMERICANO DE ADMINISTRACI\u00d3N DE EMPRESAS",
+      "weight": 1
+    },
+    {
+      "source": "BANK OF ENGLAND",
+      "target": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "weight": 1
+    },
+    {
+      "source": "TECHNICAL UNIVERSITY OF MUNICH",
+      "target": "UNIVERSITY OF PORTO",
+      "weight": 1
+    },
+    {
+      "source": "SHANGHAI JIAO TONG UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "TONGJI UNIVERSITY",
+      "target": "ZHEJIANG UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "DEPAUL UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CHINESE UNIVERSITY OF HONG KONG",
+      "target": "MASSEY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "DALIAN MARITIME UNIVERSITY",
+      "target": "NANKAI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "SYRACUSE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "target": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS",
+      "target": "QUEEN MARY UNIVERSITY OF LONDON",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF ADELAIDE",
+      "target": "UNIVERSITY OF CANTERBURY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF FLORIDA",
+      "target": "UNIVERSITY OF OKLAHOMA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AGDER",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "LOUGHBOROUGH UNIVERSITY",
+      "target": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "weight": 1
+    },
+    {
+      "source": "HOPE COLLEGE",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+      "weight": 1
+    },
+    {
+      "source": "BANK OF ENGLAND",
+      "target": "TECHNICAL UNIVERSITY OF BERLIN",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF CYPRUS",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL SUN YAT-SEN UNIVERSITY",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "BOND UNIVERSITY",
+      "target": "CARDIFF UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "OREGON STATE UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "SAPIENZA UNIVERSITY OF ROME",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "IESE BARCELONA",
+      "target": "TECHNICAL UNIVERSITY OF MUNICH",
+      "weight": 1
+    },
+    {
+      "source": "DONGGUK UNIVERSITY",
+      "target": "ESCP BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "HANKEN SCHOOL OF ECONOMICS",
+      "target": "UNIVERSITY OF SOUTHERN DENMARK",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSIT\u00c9 PARIS 1 PANTH\u00c9ON-SORBONNE",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF PRETORIA",
+      "weight": 1
+    },
+    {
+      "source": "HONG KONG BAPTIST UNIVERSITY",
+      "target": "UNIVERSITY OF HAWAII AT MANOA",
+      "weight": 1
+    },
+    {
+      "source": "ERASMUS UNIVERSITY",
+      "target": "FLORIDA INTERNATIONAL UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "target": "WASHINGTON UNIVERSITY IN ST. LOUIS",
+      "weight": 1
+    },
+    {
+      "source": "HUNAN UNIVERSITY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "NANKAI UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "MACQUARIE UNIVERSITY",
+      "target": "UNIVERSITY OF HULL",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF PORTO",
+      "target": "UNIVERSITY OF TEXAS AT DALLAS",
+      "weight": 1
+    },
+    {
+      "source": "BEIJING INSTITUTE OF TECHNOLOGY",
+      "target": "SINGAPORE MANAGEMENT UNIVERSITY UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "ENVIRONMENTAL DEFENSE FUND",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "RMIT UNIVERSITY",
+      "target": "VIENNA UNIVERSITY OF ECONOMICS AND BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "ZHEJIANG UNIVERSITY OF TECHNOLOGY",
+      "weight": 1
+    },
+    {
+      "source": "SOUTHWESTERN UNIVERSITY OF FINANCE AND ECONOMICS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "CAPITAL UNIVERSITY OF ECONOMICS AND BUSINESS",
+      "target": "MACQUARIE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF COLOGNE",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF SOUTHAMPTON",
+      "target": "UNIVERSITY OF VERONA",
+      "weight": 1
+    },
+    {
+      "source": "TULANE UNIVERSITY",
+      "target": "UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "UNIVERSITY OF GREENWICH",
+      "weight": 1
+    },
+    {
+      "source": "COVENTRY UNIVERSITY",
+      "target": "UNIVERSITY OF SYDNEY",
+      "weight": 1
+    },
+    {
+      "source": "DEPARTMENT OF INFORMATION SYSTEMS AND OPERATIONS MANAGEMENT; UNIVERSITY OF UNIVERSITY OF AUCKLAND; PRIVATE BAG 92019 AUCKLAND 1142 NEW ZEALAND",
+      "target": "FACULTY OF BUSINESS",
+      "weight": 1
+    },
+    {
+      "source": "HUNAN UNIVERSITY",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "target": "UNIVERSITY OF MELBOURNE",
+      "weight": 1
+    },
+    {
+      "source": "AUCKLAND UNIVERSITY OF TECHNOLOGY",
+      "target": "ESCP EUROPE BUSINESS SCHOOL",
+      "weight": 1
+    },
+    {
+      "source": "NATIONAL UNIVERSITY OF MALAYSIA",
+      "target": "UNIVERSITY OF NEWCASTLE AUSTRALIA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF AUCKLAND",
+      "target": "UNIVERSITY OF ILLINOIS AT CHICAGO",
+      "weight": 1
+    },
+    {
+      "source": "RENSSELAER POLYTECHNIC INSTITUTE",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "LANCASTER UNIVERSITY",
+      "target": "NATIONAL UNIVERSITY OF MALAYSIA",
+      "weight": 1
+    },
+    {
+      "source": "MONASH UNIVERSITY",
+      "target": "YALE UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "GEORGETOWN UNIVERSITY",
+      "target": "UNIVERSITY OF ALBERTA",
+      "weight": 1
+    },
+    {
+      "source": "UNIVERSITY OF EDINBURGH",
+      "target": "UNIVERSITY OF NOTTINGHAM NINGBO CHINA",
+      "weight": 1
+    },
+    {
+      "source": "ESCP BUSINESS SCHOOL\u2014MADRID CAMPUS",
+      "target": "UNIVERSITY OF AUCKLAND",
+      "weight": 1
+    },
+    {
+      "source": "MANUKAU INSTITUTE OF TECHNOLOGY",
+      "target": "UNIVERSITY OF FLORIDA",
+      "weight": 1
+    },
+    {
+      "source": "HONG KONG POLYTECHNIC UNIVERSITY",
+      "target": "WUHAN UNIVERSITY",
+      "weight": 1
+    },
+    {
+      "source": "CATHOLIC UNIVERSITY OF EICHST\u00c4TT-INGOLSTADT",
+      "target": "UNIVERSITY OF PORTO",
+      "weight": 1
+    },
+    {
+      "source": "IMPERIAL COLLEGE LONDON",
+      "target": "UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS",
+      "weight": 1
+    },
+    {
+      "source": "CATHOLIC UNIVERSITY OF EICHST\u00c4TT-INGOLSTADT",
+      "target": "TECHNICAL UNIVERSITY OF MUNICH",
+      "weight": 1
+    }
+  ]
+}
